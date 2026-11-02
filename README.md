@@ -1,16 +1,39 @@
-## Hi there 👋
+## Olá, eu sou a Jéssica! 👋
 
-<!--
-**jessica403/jessica403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seja muito bem-vinda(o) ao meu perfil do GitHub! 
 
-Here are some ideas to get you started:
+Sou apaixonada por tecnologia e estou sempre em busca de aprender coisas novas e criar projetos legais. 💻✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Sobre mim
+- 🔭 Atualmente estou estudando **Análise de Sistemas**.
+- 🌱 Em constante aprendizado sobre programação, banco de dados e novas ferramentas.
+- 💬 Pode me perguntar sobre códigos, projetos ou curiosidades!
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/jessica-siqueira-b22201171/)
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+<div align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.ico" height="40" alt="Java logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.ico" height="40" alt="MySQL logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.ico" height="40" alt="Git logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.ico" height="40" alt="VS Code logo" />
+</div>
+
+---
+
+### 📊 Estatísticas do GitHub
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jessica403&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub da Jéssica" />
+</div>
+
+---
+
+### ⚡ Curiosidades e Hobbies
+- 🧠 Adoro resolver quebra-cabeças e palavras-cruzadas.
+- 🎵 Curtindo um bom pop internacional e trilhas sonoras.
+- 🎮 Fã de tecnologia retrô e entretenimento em casa.
+
+> *"A persistência é o caminho do êxito."*
