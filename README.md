@@ -1,39 +1,34 @@
-## Olá, eu sou a Jéssica! 👋
 
-Seja muito bem-vinda(o) ao meu perfil do GitHub! 
-
-Sou apaixonada por tecnologia e estou sempre em busca de aprender coisas novas e criar projetos legais. 💻✨
-
----
-
-### 🚀 Sobre mim
-- 🔭 Atualmente estou estudando **Análise de Sistemas**.
-- 🌱 Em constante aprendizado sobre programação, banco de dados e novas ferramentas.
-- 💬 Pode me perguntar sobre códigos, projetos ou curiosidades!
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/jessica-siqueira-b22201171/)
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="Java logo" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="Git logo" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40" alt="VS Code logo" />
-</div>
-
----
-
-### 📊 Estatísticas do GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jessica403&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
-</div>
+
+# 💜 Olá! Eu sou a Jessica
+
+### 👩‍💻 Desenvolvedora em evolução | Apaixonada por tecnologia
+
+<img src="https://github-readme-stats.vercel.app/api?username=jessica403&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessica403&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 ---
 
-### ⚡ Curiosidades e Hobbies
-- 🧠 Adoro resolver quebra-cabeças e palavras-cruzadas.
-- 🎵 Curtindo um bom pop internacional e trilhas sonoras.
-- 🎮 Fã de tecnologia retrô e entretenimento em casa.
+### 🔥 Minha sequência de contribuições
 
-> *"A persistência é o caminho do êxito."*
+<img src="https://streak-stats.demolab.com?user=jessica403&theme=tokyonight&hide_border=true"/>
+
+### 🏆 Minhas conquistas
+
+<img src="https://github-profile-trophy.vercel.app/?username=jessica403&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+---
+
+### 📈 Gráfico de contribuições
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jessica403&theme=tokyo-night&hide_border=true"/>
+
+---
+
+### ✨ Obrigada pela visita!
+
+<img src="https://komarev.com/ghpvc/?username=jessica403&color=blueviolet&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL"/>
+
+</div>
