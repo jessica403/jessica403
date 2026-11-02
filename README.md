@@ -16,10 +16,10 @@ Sou apaixonada por tecnologia e estou sempre em busca de aprender coisas novas e
 
 ### 🛠️ Tecnologias e Ferramentas
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.ico" height="40" alt="Java logo" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.ico" height="40" alt="MySQL logo" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.ico" height="40" alt="Git logo" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.ico" height="40" alt="VS Code logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="Java logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="Git logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40" alt="VS Code logo" />
 </div>
 
 ---
