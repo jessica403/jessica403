@@ -5,30 +5,46 @@
 
 ### 👩‍💻 Desenvolvedora em evolução | Apaixonada por tecnologia
 
-<img src="https://github-readme-stats.vercel.app/api?username=jessica403&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="180"/>
+<img src="https://komarev.com/ghpvc/?username=jessica403&color=7AA2F7&style=for-the-badge&label=VISITAS+AO+PERFIL"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessica403&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</div>
 
 ---
 
-### 🔥 Minha sequência de contribuições
+
+
+---
+
+## 🔥 Sequência de contribuições
+
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=jessica403&theme=tokyonight&hide_border=true"/>
 
-### 🏆 Minhas conquistas
-
-<img src="https://github-profile-trophy.vercel.app/?username=jessica403&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</div>
 
 ---
 
-### 📈 Gráfico de contribuições
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jessica403&theme=tokyo-night&hide_border=true"/>
 
 ---
 
-### ✨ Obrigada pela visita!
 
-<img src="https://komarev.com/ghpvc/?username=jessica403&color=blueviolet&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL"/>
+---
+
+## 💻 Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,git,java,github,vscode&theme=dark"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Obrigada por visitar meu perfil!
+
+💜 Sempre aprendendo, criando e evoluindo.
 
 </div>
