@@ -26,7 +26,7 @@ Sou apaixonada por tecnologia e estou sempre em busca de aprender coisas novas e
 
 ### 📊 Estatísticas do GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jessica403&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub da Jéssica" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jessica403&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
 </div>
 
 ---
