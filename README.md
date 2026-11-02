@@ -10,8 +10,20 @@
 </div>
 
 ---
-
-
+                            
+<div align="center">
+ 
+<h3> Entre em contato comigo</h3>
+  <p>
+    <a href="mailto:jessica.siqueiras123@gmail.com" target="_blank">
+      <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40" alt="Gmail logo" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://linkedin.com/in/jessica-siqueira-b22201171" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40" alt="LinkedIn logo" />
+    </a>
+  </p>
+</div>
 
 ---
 
@@ -35,7 +47,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,java,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,git,java,gmail,github,vscode&theme=dark"/>
 
 </div>
 
